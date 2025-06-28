@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/salma/PycharmProjects/Krish-Naik-course-resources/Complete-Machine-Learning-And-NLP/26-MLFlow%20Dagshub%20and%20BentoML-Complete%20ML%20Project%20Lifecycle/MLFlow/mlruns/0/f59be31d77fc4d03890dd3cbf978fd6c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f59be31d77fc4d03890dd3cbf978fd6c
+run_name: redolent-asp-576
+run_uuid: f59be31d77fc4d03890dd3cbf978fd6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749731278581
+status: 1
+tags: []
+user_id: salma

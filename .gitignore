@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VSCode settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Test, log, and coverage files
+*.log
+*.out
+*.tmp
+*.coverage
+coverage/
+
+# Pip
+pip-log.txt
+
+# Environment variables / secrets
+.env
+.env.*
+
+# PyInstaller
+*.spec
+
+# MyPy and Pyre type checkers
+.mypy_cache/
+.pyre/
+
+# pytest cache
+.pytest_cache/
+
+# Data files (optional - customize as needed)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pkl
+*.h5
+
+# Model files (optional)
+*.joblib
+*.sav
+*.pt
+*.h5
+*.pb
+
+# Notebook outputs (optional)
+*.nbconvert.ipynb
+
+# OS-specific
+Thumbs.db

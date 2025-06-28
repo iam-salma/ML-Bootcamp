@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/salma/PycharmProjects/Krish-Naik-course-resources/Complete-Machine-Learning-And-NLP/26-MLFlow%20Dagshub%20and%20BentoML-Complete%20ML%20Project%20Lifecycle/MLFlow/mlruns/0/b977d4794897441da5d1f6a8b5cc0acd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b977d4794897441da5d1f6a8b5cc0acd
+run_name: likeable-snake-78
+run_uuid: b977d4794897441da5d1f6a8b5cc0acd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749730718811
+status: 1
+tags: []
+user_id: salma
