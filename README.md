@@ -58,10 +58,10 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 
 ## 🏁 Capstone Projects
 
-| Repo | Github-URL |
-|-------------|---------|
-| [`Student-score-prediction`](https://github.com/iam-salma/student-score-prediction)
-| [`Phishing-Url-Classifier`](https://github.com/iam-salma/Phishing-URL-Classifier)
+| Repositories |
+|-------------|
+| [`Student-Score-Prediction`](https://github.com/iam-salma/student-score-prediction)
+| [`Phishing-URL-Classifier`](https://github.com/iam-salma/Phishing-URL-Classifier)
 
 ---
 
