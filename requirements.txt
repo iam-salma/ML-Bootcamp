@@ -23,6 +23,5 @@ dagshub
 docker
 dvc
 bentoml
-setuptools
 
 # -e.

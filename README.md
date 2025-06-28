@@ -56,11 +56,12 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 
 ---
 
-## 🎓 Capstone Project
+## 🏁 Capstone Projects
 
-| Folder | Content |
-|--------|---------|
-| `24-Student-score-prediction-ECS-CI-CD-mlproject` | End-to-end pipeline with CI/CD & ECS deployment |
+| Repo | Github-URL |
+|-------------|---------|
+| [`Student-score-prediction`](https://github.com/iam-salma/student-score-prediction)
+| [`Phishing-Url-Classifier`](https://github.com/iam-salma/Phishing-URL-Classifier)
 
 ---
 
