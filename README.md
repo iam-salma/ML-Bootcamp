@@ -62,6 +62,8 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 |-------------|
 | [`Student-Score-Prediction`](https://github.com/iam-salma/student-score-prediction)
 | [`Phishing-URL-Classifier`](https://github.com/iam-salma/phishing-url-detection-ml)
+| [`churnguard-bank-customer-churn-prediction`](https://github.com/iam-salma/churnguard-bank-customer-churn-prediction)
+| [`rnn-imdb-movie-review-sentiment-classifier`](https://github.com/iam-salma/rnn-imdb-movie-review-sentiment-classifier)
 
 ---
 
@@ -69,7 +71,8 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 
 | Folder | Content |
 |--------|---------|
-| `25-Deep Learning` | CNN basics, activation & loss functions, optimizers |
+| `24-Deep Learning` | CNN basics, activation & loss functions, optimizers |
+| `25-RNN` | RNN basics, backward propagation, embeddings |
 
 ---
 
