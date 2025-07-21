@@ -1,6 +1,6 @@
 # 🧠 The Ultimate Machine Learning Bootcamp
 
-Welcome to the **ML Bootcamp** – a comprehensive hands-on repository for mastering core concepts, algorithms, and real-world machine learning workflows.  
+Welcome to the **ML Bootcamp** – a comprehensive hands-on repository for mastering core concepts, algorithms, and real-world machine learning workflows.
 Perfect for students, job seekers, and anyone preparing for ML interviews or projects.
 
 ---
@@ -64,6 +64,7 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 | [`Phishing-URL-Classifier`](https://github.com/iam-salma/phishing-url-detection-ml)
 | [`churnguard-bank-customer-churn-prediction`](https://github.com/iam-salma/churnguard-bank-customer-churn-prediction)
 | [`rnn-imdb-movie-review-sentiment-classifier`](https://github.com/iam-salma/rnn-imdb-movie-review-sentiment-classifier)
+| [`..`](https://github.com/iam-salma/)
 
 ---
 
@@ -71,8 +72,9 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 
 | Folder | Content |
 |--------|---------|
-| `24-Deep Learning` | CNN basics, activation & loss functions, optimizers |
+| `24-Deep Learning ANN` | CNN basics, activation & loss functions, optimizers |
 | `25-RNN` | RNN basics, backward propagation, embeddings |
+| `26-LSTM+GRU` | LSTM architecture, variants, GRU |
 
 ---
 
