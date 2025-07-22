@@ -51,6 +51,7 @@ pip-log.txt
 *.parquet
 *.feather
 *.pkl
+*.pickle
 *.h5
 
 # Model files (optional)
@@ -65,3 +66,5 @@ pip-log.txt
 
 # OS-specific
 Thumbs.db
+
+*.txt
