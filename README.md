@@ -64,7 +64,7 @@ Perfect for students, job seekers, and anyone preparing for ML interviews or pro
 | [`Phishing-URL-Classifier`](https://github.com/iam-salma/phishing-url-detection-ml)
 | [`churnguard-bank-customer-churn-prediction`](https://github.com/iam-salma/churnguard-bank-customer-churn-prediction)
 | [`rnn-imdb-movie-review-sentiment-classifier`](https://github.com/iam-salma/rnn-imdb-movie-review-sentiment-classifier)
-| [`Next Word Prediction with LSTM`](https://github.com/iam-salma/ML-Bootcamp/26-LSTM+GRU/26-LSTM+GRU\predicting-next-word)
+| [`Next Word Prediction with LSTM`](https://github.com/iam-salma/ML-Bootcamp/tree/main/26-LSTM%2BGRU/predicting-next-word)
 
 ---
 
